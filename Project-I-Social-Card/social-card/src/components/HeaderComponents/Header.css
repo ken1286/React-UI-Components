@@ -3,7 +3,6 @@
 
 .header-container {
   display: flex;
-  height: 400px;
   width: 800px;
 }
 
@@ -29,8 +28,8 @@
 
 .header-img {
   width: 5%;
-  padding-top: 4%;
-  min-width: 100px;
+  padding-top: 5%;
+  min-width: 50px;
   height: auto;
 }
 
@@ -41,6 +40,7 @@
 
 .header-content {
   padding: 2%;
+  width: 90%;
 }
 
 .header-text {

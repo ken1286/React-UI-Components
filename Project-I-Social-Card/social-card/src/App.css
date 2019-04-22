@@ -49,3 +49,9 @@ table {
 html {
   font-size: 62.5%;
 }
+
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
