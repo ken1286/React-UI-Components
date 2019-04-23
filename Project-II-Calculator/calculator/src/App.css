@@ -1,0 +1,11 @@
+html {
+  font-size: 62.5%;
+}
+
+.container {
+  width: 550px;
+  height: auto;
+  border: 1px solid black;
+  padding: 0px;
+  margin: 100px auto;
+}

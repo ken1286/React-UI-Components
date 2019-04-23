@@ -1,0 +1,12 @@
+.display {
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: right;
+  margin-top: 0px;
+}
+
+.display h1 {
+  margin-right: 2%;
+  font-size: 3rem;
+}
