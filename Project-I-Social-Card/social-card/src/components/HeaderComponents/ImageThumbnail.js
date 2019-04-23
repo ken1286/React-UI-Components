@@ -1,7 +1,6 @@
 import React from 'react';
 import './Header.css';
 
-
 function ImageThumbnail() {
   return ( 
     <div className="header-img">
