@@ -3,7 +3,7 @@ import './Button.css';
 import ActionButton from './ActionButton';
 import NumberButton from './NumberButton';
 
-let numbers = [{num:'1'}, {num:'2'}, {num:'3'}, {num:'4'}, {num:'5'}, {num:'6'}, {num:'7'}, {num:'8'}, {num:'9'}]
+let numbers = [{num:'7'}, {num:'8'}, {num:'9'}, {num:'4'}, {num:'5'}, {num:'6'}, {num:'1'}, {num:'2'}, {num:'3'}]
 
 let symbols = [{symbol:'/'}, {symbol:'X'}, {symbol:'-'}, {symbol:'+'}, {symbol:'='}];
 
