@@ -19,9 +19,7 @@ function ButtonContainer() {
         return <NumberButton buttonStyle='number-button' text={element.num} />
       })};
       </div>
-
       <ActionButton text="0" buttonStyle="clear" />
-
     </div>
 
     <div className="symbols">
