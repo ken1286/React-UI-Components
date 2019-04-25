@@ -1,0 +1,58 @@
+
+
+button {
+  padding: 0;
+  margin: 0;
+}
+
+.button-container {
+  width: 100%;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-start;
+}
+
+.white-buttons {
+  height: 400px;
+  width: 75%;
+}
+
+.clear {
+  width: 100%;
+  background-color: white;
+  text-align: center;
+  font-size: 3.5rem;
+  height: 100px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.numbers {
+  width: 100%;
+  height: 300px;
+  margin: 0;
+  padding: 0;
+}
+
+.number-button {
+  background-color: white;
+  width: 33.33%;
+  font-size: 3.5rem;
+  height: 100px;
+}
+
+.symbols {
+  width: 25%;
+  height: 500px;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: flex-start;
+}
+
+.symbol-button {
+  background-color: rgb(150, 0, 28);
+  width: 100%;
+  font-size: 3.5rem;
+  color: white;
+  height: 100px;
+}
